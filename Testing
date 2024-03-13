@@ -65,9 +65,9 @@ local Library = {
 		StrongText = {},
 		WeakText = {}
 	},
-	WelcomeText = nil,
+	WelcomeText = 欢迎,
 	DisplayName = nil,
-	DragSpeed = 0.06,
+	DragSpeed = 1,
 	LockDragging = false,
 	ToggleKey = Enum.KeyCode.Home,
 	UrlLabel = nil,
